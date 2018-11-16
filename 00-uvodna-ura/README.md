@@ -19,12 +19,18 @@
     - Brali bomo tipke iz tipkovnice
 - Kako deluje fizika v igrah
 - Animiranje objektov, karakterjev itd.
+- Particle efekti
 - Kako dodat zvoke k igri
 - Uporabniški vmesnik
     - Start meni, settings meni itd
     - Leaderboards
     - Highscores
 - Shaders
+### My Demos
+
+- https://www.youtube.com/watch?v=7PFXU9fOpN4&t=1s
+- https://globalgamejam.org/users/rokkos
+- https://rokkos.itch.io/
 
 ## Orodja
 
